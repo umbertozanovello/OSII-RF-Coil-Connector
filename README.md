@@ -1,4 +1,4 @@
-# OSI<sup>2</sup> compatible 1-channel Tx/Rx RF Coil Connector
+# OSI<sup>2</sup> compatible RF Coil Connector
 <img src="pictures/matedConnector.jpg" width="500">
 
 This connector has been primarlily developed to interface with the [OSI<sup>2</sup> MRI LowField scanner](https://www.opensourceimaging.org/project/osii-one/). All the housing is designed to be 3D printed and the electronic boards can be manufactured by standard PCB manufacturing. Production files (e.g., Gerbers, stl, etc.) are provided as assets to the releases.
