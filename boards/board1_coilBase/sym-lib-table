@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "SAL1-120")(type "KiCad")(uri "${KIPRJMOD}/externalModels/SAL1-120-01-XX-S-A.kicad_sym")(options "")(descr ""))
+  (lib (name "SOIC-8_EEPROM")(type "KiCad")(uri "${KIPRJMOD}/externalModels/M24C01-RMN6P.kicad_sym")(options "")(descr ""))
+)
