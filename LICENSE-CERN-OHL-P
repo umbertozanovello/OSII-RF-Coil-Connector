@@ -1,0 +1,7 @@
+SPDX-FileCopyrightText: <yyyy> <name> <name@example.com>
+SPDX-License-Identiﬁer: CERN-OHL-P-2.0+
+
+You may redistribute and modify this source and make products using it under the terms of the CERN-OHL-P v2+ (https://ohwr.org/cern_ohl_s_v2.txt).
+This source is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING OF MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A PARTICULAR PURPOSE. Please see the CERN-OHL-P v2 for applicable conditions. 
+Source location: <url_to_the_repo.git> 
+As per CERN-OHL-P v2 section 4, should You produce hardware based on this source, You must where practicable maintain the Source Location visible on the external case of the connector or other products you make using this source.
