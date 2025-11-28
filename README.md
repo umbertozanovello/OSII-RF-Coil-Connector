@@ -34,3 +34,6 @@ This is an open source hardware project licensed under the CERN Open Hardware Li
 
 ## CITATION
 To help users correctly cite your project, a "CITATION.cff" file (read here about [citation files](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-citation-files)) is provided with this template and can be modified according to the specific requirements.
+
+## Acknowledgements
+The connector has been developed in the framework of the project 22HLT02 A4IM. The project (22HLT02 A4IM) has received funding from the European Partnership on Metrology, co-financed by the European Union's Horizon Europe Research and Innovation Programme and by the Participating States.
